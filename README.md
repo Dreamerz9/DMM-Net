@@ -32,7 +32,10 @@
 
 ### Datasets
 [1] Martin Vallieres, Carolyn R Freeman, Sonia R Skamene, and Issam El Naqa. A radiomics model from joint fdg-pet and mri texture features for the prediction of lung metastases in soft-tissue sarcomas of the extremities. Physics in Medicine & Biology, 60(14):5471, 2015.
-[2] S Gatidis et al. A whole-body fdg-pet/ct dataset with manually annotated tumor lesions sci. Data, 9(1):601, 2022.  https://www.cancerimagingarchive.net/collection/fdg-pet-ct-lesions/
+
+[2] S Gatidis et al. A whole-body fdg-pet/ct dataset with manually annotated tumor lesions sci. Data, 9(1):601, 2022.  https://www.cancerimagingarchive.net/collection/fdg-pet-ct-lesions/.
+
+
 [3] Valentin Oreiller, Vincent Andrearczyk, Mario Jreige, Sarah Boughdad, Hesham Elhalawani, Joel Castelli, Martin Vallieres, Simeng Zhu, Juanying Xie, Ying Peng, et al. Head and neck tumor segmentation in pet/ct: the hecktor challenge. Medical image analysis, 77:102336, 2022
 https://hecktor.grand-challenge.org/
 
